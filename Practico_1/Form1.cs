@@ -215,7 +215,7 @@ namespace Practico_1
                 accion = "editar";
 
                 btnEliminar.Enabled = false;
-                btnModificar.Enabled = false;
+                btnModificar.Enabled = false; //corregido
 
                 // Establecer campos como solo lectura
                 textRut.ReadOnly = true;
